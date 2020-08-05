@@ -1,0 +1,16 @@
+{
+"companyName": "CardonaDev",
+"productName": "Corre Gatell!",
+"productVersion": "1",
+"dataUrl": "web export gatell v covid.data.unityweb",
+"wasmCodeUrl": "web export gatell v covid.wasm.code.unityweb",
+"wasmFrameworkUrl": "web export gatell v covid.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
